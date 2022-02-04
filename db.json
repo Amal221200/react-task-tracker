@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "Feb 3 2022",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Meeting at School",
+      "day": "Feb 4 2022",
+      "reminder": true
+    },
+    {
+      "text": "Shopping",
+      "day": "Feb 6 ",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "hospital appointment",
+      "day": "Feb 6 ",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
